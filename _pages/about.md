@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm Ari, Ana, and sometimes *Shrimp*, depending on the situation. I take technical information and break it down into easily digestible, concise, and educational content designed to coach your average user into a poweruser. Teaching others to take ownership and make the most of their tools motivates me to write. Tech writing is more than just the words on the page, it's the way we empower others with the content we create. 
+Hey there! I'm Ari, Ana, and sometimes *Shrimp*, depending on the situation. I take technical information and break it down into easily digestible, concise, and educational content designed to coach your average user into a poweruser. Tech writing is more than just the words on the page; it's the way we empower others to own their toolswith the content we create. 
 
 On a personal note, I enjoy gardening and bird watching, cheesy ghost hunting shows, video games, 3D modeling, and video editing. I've picked up programming as a side hobby, and I learned Git and markdown by making this portfolio! I'm always after ways to learn a little about a lot.
 

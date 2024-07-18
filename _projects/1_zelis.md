@@ -8,18 +8,17 @@ category: work
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Zelis Healthcare** is my current full time project. It's taken me quite some time migrating from medical cannabis to the insurance and healthcare industry; the environment is slower, more intentional, but less agile than the cannabis startup. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+# Projects 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## onboarding
+
+## associate knowledge base 
+
+## SharePoint Pages 
+
+## Others 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
