@@ -6,7 +6,7 @@ subtitle: Small. Mighty. Writer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: SmallRound.png
   image_circular: false # crops the image to make it circular
 
 
