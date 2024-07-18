@@ -2,11 +2,10 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ariana Hanshaw
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 23 May 1994
+
 
 - title: Education
   type: time_table
