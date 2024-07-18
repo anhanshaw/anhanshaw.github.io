@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Probably the worst thing you could do for your business
+subtitle: Small. Mighty. Writer.
 
 profile:
   align: right

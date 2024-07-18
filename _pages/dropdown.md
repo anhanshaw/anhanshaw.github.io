@@ -6,10 +6,10 @@ nav_order: 8
 dropdown: true
 children:
   - title: resume
-    permalink: /resume/
+    permalink: /cv/
   - title: divider
   - title: portfolio
-    permalink: /portfolio/
+    permalink: /projects/
   - title: divider
   - title: blog
     permalink: /blog/
