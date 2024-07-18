@@ -2,8 +2,7 @@
 layout: page
 title: Freelance 
 description: 2022 - present
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/twitch-cover.png
 importance: 3
 category: personal
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Zelis Healthcare
 description: 2023 - present
-img: assets/img/12.jpg
+img: assets/img/zelis-cover.png
 importance: 1
 category: work
 related_publications: false

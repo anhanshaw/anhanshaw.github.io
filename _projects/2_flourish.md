@@ -2,7 +2,7 @@
 layout: page
 title: Flourish Software 
 description: 2020 - 2022
-img: assets/img/3.jpg
+img: assets/img/flourish-cover.png
 importance: 2
 category: work
 giscus_comments: false
