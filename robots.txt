@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anhanshaw.github.io/sitemap.xml
+Sitemap: https://anhanshaw.com/sitemap.xml
