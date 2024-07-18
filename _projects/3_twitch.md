@@ -2,7 +2,7 @@
 layout: page
 title: Freelance 
 description: 2022 - present
-img: assets/img/twitch-cover.png
+img: assets/img/personal-cover.png
 importance: 3
 category: personal
 ---
