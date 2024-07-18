@@ -6,7 +6,7 @@ subtitle: Small. Mighty. Writer.
 
 profile:
   align: right
-  image: SmallRound.png
+  image: PFP.png
   image_circular: false # crops the image to make it circular
 
 
@@ -19,4 +19,4 @@ Hey there! I'm Ari, Ana, and sometimes *Shrimp*, depending on the situation. I t
 
 On a personal note, I enjoy gardening and bird watching, cheesy ghost hunting shows, video games, 3D modeling, and video editing. I've picked up programming as a side hobby, and I learned Git and markdown by making this portfolio! I'm always after ways to learn a little about a lot.
 
-Check out my work and resume in the navigation above, and when you're ready, [reach out to get in contact](mailto:arianahanshaw@gmail.com).3
+Check out my work and resume in the navigation above, and when you're ready, [reach out to get in contact](mailto:arianahanshaw@gmail.com).
