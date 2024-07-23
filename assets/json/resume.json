@@ -5,15 +5,7 @@
     "image": "",
     "email": "arianahanshaw@gmail.com",
     "url": "https://www.linkedin.com/in/anhanshaw/",
-    "summary": "Atlanta-based technical writer with a young, creative flair. Previously in the healthcare technology industry, Ari values an environment where learning is king and her coworkers are just as passionate about it as she is.",
-
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "Atlanta-based technical writer with a young, creative flair. Previously in the healthcare technology industry, Ari values an environment where learning is king and her coworkers are just as passionate about it as she is."
   },
   "work": [
     {
@@ -59,7 +51,7 @@
       "location": "Dahlonega, GA",
       "url": "https://ung.edu/",
       "area": "Minor, Cybersecurity",
-      "studyType": "B.A., English, Writing and Publications",
+      "studyType": "B.A. English, Writing and Publications",
       "startDate": "2016-05",
       "endDate": "2012-08"
     }
@@ -69,32 +61,19 @@
       "name": "Apple Certified Mac Technician",
       "date": "2017",
       "issuer": "Apple",
+      "url": "https://training.apple.com/",
       "icon": "fa-brands fa-apple"
     },
     {
       "name": "Apple Certified iOS Technician",
       "date": "2017",
       "issuer": "Apple",
+      "url": "https://training.apple.com/",
       "icon": "fa-brands fa-apple"
     }
   ],
- 
+
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "software & Skills": [
     {
       "name": "Adobe Creative Cloud",
       "icon": "fa-solid fa-palette",
