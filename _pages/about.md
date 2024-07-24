@@ -21,4 +21,4 @@ I take technical information and break it down into easily digestible, concise, 
 
 In addition to being a professional technical writer, I'm a graphic designer, livestream producer, video editor, game developer, and all around hat-wearer. Learning a little about a lot helps me to connect the world together, so I take every opportunity I can to try out new technologies. 
 
-Check out my [work](https://anhanshaw.com/projects/) and [resume](https://anhanshaw.com/cv/) in the navigation above, and when you're ready, [reach out to get in contact](mailto:arianahanshaw@gmail.com).
+Check out my [work](https://anhanshaw.com/projects/) and [resume](https://anhanshaw.com/cv/) in the navigation above, and when you're ready, [reach out](mailto:arianahanshaw@gmail.com). Let's work together.
