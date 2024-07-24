@@ -17,10 +17,10 @@ Zelis was in need of a creative *and* technical team to migrate the knowledge ba
 Too many products in the ecosystem creates a fractured feeling of identity, so I brought the company's brand identity to the knowledge base.
 <div class="row justify-content-sm-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/zelis-home-screen.png" title="Zelis knowledge base home screen" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/zelis/zelis-home-screen.png" title="Zelis knowledge base home screen" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/zelis-mobile-layout.png" title="Mobile knowledge article layout" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/zelis/zelis-mobile-layout.png" title="Mobile knowledge article layout" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,7 @@ Too many products in the ecosystem creates a fractured feeling of identity, so I
 Our senior leadership team is always on the road and some of them look to the knowledge base for tech tips. To ensure they would have the best experience while traveling, I designed the site primarily for mobile use.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/adaptive-layout.gif" title="Responsive layout adapts for mobile users" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/zelis/adaptive-layout.gif" title="Responsive layout adapts for mobile users" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,10 +42,10 @@ Our senior leadership team is always on the road and some of them look to the kn
 #### Micro Content 
 <div class="row justify-content-sm-center">
     <div class="col">
-    {% include figure.liquid loading="eager" path="assets/img/zelis-definition-microcontent.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/zelis/zelis-definition-microcontent.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
         <div class="col">
-    {% include figure.liquid loading="eager" path="assets/img/zelis-informational-microcontent.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/zelis/zelis-informational-microcontent.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

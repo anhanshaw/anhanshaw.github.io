@@ -2,7 +2,7 @@
 layout: page
 title: Graphic Design
 description: 2022 - present
-img: assets/img/personal-cover.png
+img: assets/img/graphic-design-cover.png
 importance: 3
 category: freelance
 ---

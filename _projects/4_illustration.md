@@ -2,7 +2,7 @@
 layout: page
 title: Illustration 
 description: 2022 - present
-img: assets/img/personal-cover.png
+img: assets/img/illustration-cover.png
 importance: 4
 category: freelance
 ---
