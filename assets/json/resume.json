@@ -20,7 +20,7 @@
     {
       "name": "Self-employed",
       "position": "Freelance Livestream Producer & Graphic Designer",
-      "url": "https://www.flourishsoftware.com/",
+      "url": "https://anhanshaw.com/projects/#freelance",
       "startDate": "2022",
       "endDate": "present",
       "summary": "Educating others to champion their web presence, finding creative solutions for modern problems.",
@@ -33,7 +33,7 @@
       "startDate": "2020",
       "endDate": "2022",
       "summary": "Provided customers and coworkers with the support they needed to succeed, promoting knowledge and education as a root cause resolution.",
-      "highlights": ["Engineered bespoke Jira automations according to individual customer needs", "The go-to support engineer for the company's top-paying client","Researched, wrote, and promoted extensive end-user documentation."]
+      "highlights": ["Engineered bespoke Jira automations according to individual customer needs", "The go-to support engineer for the company's top-paying client","Researched, wrote, and promoted extensive end-user documentation"]
     },
     {
       "name": "Surterra Holdings, Inc.",
@@ -42,7 +42,7 @@
       "startDate": "2018",
       "endDate": "2020",
       "summary": "Documented on-the-ground processes to quantify work flowing through cultivation sites, allowing the team to investigate feature parity in a cost-saving software alternative.",
-      "highlights": ["Interviewed SMEs, using investigative techniques to turn tacit knowledge into explicit knowledge.", "Wrote release notes for the cultivators' software to improve understanding of new features."]
+      "highlights": ["Interviewed SMEs, using investigative techniques to turn tacit knowledge into explicit knowledge", "Wrote release notes for the cultivators' software to improve understanding of new features"]
     }
   ],
   "education": [
@@ -51,7 +51,7 @@
       "location": "Dahlonega, GA",
       "url": "https://ung.edu/",
       "area": "Minor, Cybersecurity",
-      "studyType": "B.A. English, Writing and Publications",
+      "studyType": "B.A. English, Writing and Publication",
       "startDate": "2016-05",
       "endDate": "2012-08"
     }
