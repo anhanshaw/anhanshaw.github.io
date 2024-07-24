@@ -10,6 +10,8 @@ children:
   - title: divider
   - title: portfolio
     permalink: /projects/
+  - title: contact
+    link: mailto:arianahanshaw@gmail.com 
 #  - title: blog
 #    permalink: /blog/
 ---
