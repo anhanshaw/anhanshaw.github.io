@@ -42,10 +42,10 @@ Our senior leadership team is always on the road and some of them look to the kn
 #### Micro Content 
 <div class="row justify-content-sm-center">
     <div class="col">
-    {% include figure.liquid loading="eager" path="assets/img/zelis/zelis-definition-microcontent.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/zelis/zelis-definition-microcontent.png" title="Micro Content displays the definition of a term" class="img-fluid rounded z-depth-1" %}
     </div>
         <div class="col">
-    {% include figure.liquid loading="eager" path="assets/img/zelis/zelis-informational-microcontent.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/zelis/zelis-informational-microcontent.png" title="Micro Content displays the definition of a term" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
