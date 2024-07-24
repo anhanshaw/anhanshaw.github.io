@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Freelance 
+title: Graphic Design
 description: 2022 - present
 img: assets/img/personal-cover.png
 importance: 3
-category: personal
+category: freelance
 ---
-# Illustration & Design
+
 ## Streaming Graphics
 Streamers typically request graphics that fit with their personal brand, the game they're playing, or the vibe they're trying to illicit. I've created several, but here are the ones I'm the most proud of.
 
@@ -38,29 +38,6 @@ Unreleased commercial overlay and moodboard.
 </div>
 <div class="caption"> 
     Vector Pokemon Arceus overlay created in Affinity Designer.
-</div>
-
-## Emotes 
-Various **emotes** or custom emoticons used on various platforms like [Twitch](https://twitch.tv),
-[YouTube](https://youtube.com), and [Discord](https://discord.com/), among others. 
-<div class="row">
-    <div class="col">{% include figure.liquid loading="eager" path="assets/img/freelance/emotes/9IQ.png" title="9IQ emote - a joke about my Elden Ring stats, my ability to play the game, and how that Ven diagram's pretty much a circle" class="img-fluid rounded z-depth-1" %}</div>
-    <div class="col">{% include figure.liquid loading="eager" path="assets/img/freelance/emotes/cotl-praise.gif" title="Cult of the Lamb emote" class="img-fluid rounded z-depth-1" %}</div>
-    <div class="col">{% include figure.liquid loading="eager" path="assets/img/freelance/emotes/shrimp-excite.png" title="Shrimp excite emote" class="img-fluid rounded z-depth-1" %}</div>
-    <div class="col">{% include figure.liquid loading="eager" path="assets/img/freelance/emotes/shrimp-love.png" title="Shrimp love emote" class="img-fluid rounded z-depth-1" %}</div>
-    <div class="col">{% include figure.liquid loading="eager" path="assets/img/freelance/emotes/troah-spoon.png" title="Troah spoon channel points icon" class="img-fluid rounded z-depth-1" %}</div>
-</div>
-<div class="caption">
-    Emotes illustrated for various clients in Procreate.
-</div>
-
-## Personal Work 
-<div class="row">
-    <div class="col">{% include figure.liquid loading="eager" path="assets/img/freelance/illustration-and-design/bob-render.png" title="example image" class="img-fluid rounded z-depth-1" %}</div>
-    <div class="col">{% include figure.liquid loading="eager" path="assets/img/freelance/illustration-and-design/felyne-render.png" title="example image" class="img-fluid rounded z-depth-1" %}</div>
-</div>
-<div class="caption">
-    Vector illustrations created in Affinity Designer. 
 </div>
 
 # Brand Development 

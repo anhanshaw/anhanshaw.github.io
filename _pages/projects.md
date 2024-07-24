@@ -5,7 +5,7 @@ permalink: /projects/
 description: The work belongs to the company, but that doesn't mean you don't deserve to see it. Here are the things I can share with you.
 nav: false
 nav_order: 3
-display_categories: [work, personal, external]
+display_categories: [work, freelance]
 horizontal: false
 ---
 
