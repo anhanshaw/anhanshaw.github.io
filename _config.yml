@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: anhanshaw
-first_name: Ariana
+first_name: 
 middle_name: 
-last_name: Hanshaw
+last_name: 
 email: arianahanahsaw@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A silly writer with a young spirit and a drive to connect via education and self-improvement. Honestly, learning to become and teach others to be experts. 
@@ -157,19 +157,19 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: 
+    rss_url: 
+  - name: 
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: 
+        published_date: 
 
 # -----------------------------------------------------------------------------
 # Newsletter
